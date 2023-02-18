@@ -26,6 +26,8 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ]]
 
+--Modified for HorizonXI (ASB) by bardicrune
+
 local skills = {};
 
 skills[3] = { -- Weaponskills
