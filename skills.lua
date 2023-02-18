@@ -27,6 +27,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ]]
 
 --SMN BP and PET skills modified for HorizonXI (airskyboat) by Bardicrune
+--WARNING!!! This is intended for V0.5 of Sippius' chains addon
 local skills = {}
 
 skills[3] = { --Weaponskills
