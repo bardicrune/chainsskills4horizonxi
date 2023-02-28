@@ -65,7 +65,7 @@ skills[3] = { -- Weaponskills
     [34] = {en='Red Lotus Blade',skillchain={'Liquefaction','Detonation'}},
     [35] = {en='Flat Blade',skillchain={'Impaction'}},
     [36] = {en='Shining Blade',skillchain={'Scission'}},
-    [37] = {en='Seraph Blade',skillchain={'Scission','Transifixion'}},
+    [37] = {en='Seraph Blade',skillchain={'Scission','Transfixion'}},
     [38] = {en='Circle Blade',skillchain={'Reverberation','Impaction'}},
     [40] = {en='Vorpal Blade',skillchain={'Scission','Impaction'}},
     [41] = {en='Swift Blade',skillchain={'Gravitation'}},
